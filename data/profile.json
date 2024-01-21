@@ -13,7 +13,7 @@
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
         "name": "Angular",
@@ -25,11 +25,11 @@
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
@@ -46,31 +46,36 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Aplicação Desenvolvida em ASP.Net, utilizando MVC",
+      "url": "https://github.com/andersoncasantos/SistemaWeb-ASP.NET-Core",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Site desenvolvido para uma Hamburgueria, utilizando HTML, CSS e JavaScript",
+      "url": "https://github.com/andersoncasantos/ProjetoHamburgueria",
+      "github": true
+    },
+    {
+      "name": "Aplicação Desenvolvida para plataforma Dynamics CRM junto a AlfaPeople, utilizando as linguagens C# e JavaScript",
+      "url": "https://github.com/andersoncasantos/Projeto-Dynamics-CRM",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Analista de Sistemas / Sommus Sistemas",
+      "period": "2021 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "CEO / Infserver",
+      "period": "2019 - 2023",
+      "description": "Desenvolvimento de sistemas e aplicações de software ERP para pequenas empresas."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estágio / Grupo Carvalho",
+      "period": "2018 - 2019",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a migração de ERP Linx para TOTVS."
     }
   ]
 }
